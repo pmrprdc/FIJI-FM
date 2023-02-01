@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pmrprdc/FIJI-FM/issues"
   },
-  "homepage": "https://github.com/pmrprdc/FIJI-FM#readme"
+  "homepage": "https://github.com/pmrprdc/FIJI-FM#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
